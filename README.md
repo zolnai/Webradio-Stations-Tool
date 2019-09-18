@@ -9,4 +9,4 @@ Description:
 
 Collect the stations related information into an excel file. The first column shall contain the name of the station to have a friendly name of your favourite channe. The second is the location of the webstream, the tool has an internal parser to figure out the server, port, and file location, therefore you do not need to care about it, just insert the stream. The third column to store the volume settings, you can insert zero if no additional volume settings required. Save the list of stations to an excel file named Webradio.xlsx.
 
-Runt the tool and it generates an output folder with the JSON file and additional M3U files that can be played in your computer.
+Run the tool and it generates an output folder with the JSON file and additional M3U files that can be played by your computer.
