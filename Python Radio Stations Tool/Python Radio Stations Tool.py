@@ -1,13 +1,5 @@
 # Python script to create M3U8 file from excell (xlsx)
 
-"""
-#mport os.pathi
-#os.path.join('/my/root/directory', 'in', 'here')
-'/my/root/directory/in/here'
-"""
-
-
-
 
 # function to detect the current working folder and create output:
 def working_folder_path_detection():
