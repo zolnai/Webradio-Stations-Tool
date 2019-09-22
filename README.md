@@ -14,5 +14,4 @@ Run the tool and it generates an output folder with the JSON file and additional
 
 Plans for the future:
 - Add GUI
-- Check the last filled row in the excell
 - Multi platfom
